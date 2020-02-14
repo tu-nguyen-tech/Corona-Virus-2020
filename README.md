@@ -1,7 +1,9 @@
 # Corona Virus 2020
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tu-nguyen-tech/Corona-Virus-2020/master?filepath=Corona-data.ipynb)
+
 This is the data analysis based on the abrupt spread of Corona virus from China worldwide starting from the beginning of 2020.
 
-Visit [this link](https://mybinder.org/v2/gh/tu-nguyen-tech/Corona-Virus-2020/7c2469b4a063eaba5f94824b2c32638b0455ffdb) to run the notebooks with the latest data.
+Click [this link](https://hub.gke.mybinder.org/user/tu-nguyen-tech-corona-virus-2020-uya9cf94/notebooks/Corona-data.ipynb) or click on the badge above to run the notebooks with the latest data on Binder.
 
 Data Source: [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19)
