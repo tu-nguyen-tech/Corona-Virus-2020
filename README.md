@@ -6,4 +6,4 @@ This is the data analysis based on the abrupt spread of Corona virus from China 
 
 Click [this link](https://hub.gke.mybinder.org/user/tu-nguyen-tech-corona-virus-2020-uya9cf94/notebooks/Corona-data.ipynb) or click on the badge above to run the notebooks with the latest data on Binder.
 
-Data Source: [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19)
+Data Source: [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series)
